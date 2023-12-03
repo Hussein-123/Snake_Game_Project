@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1701619216 source:d:\codeblocks\snake-game\main.cpp
+	<Gl/gl.h>
+	<GL/glut.h>
+	"game.h"
+	<stdlib.h>
+
+1426340040 d:\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437547542 d:\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1701619238 source:d:\codeblocks\snake-game\game.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<ctime>
+	"game.h"
+
+1701620429 d:\codeblocks\snake-game\game.h
+
